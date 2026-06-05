@@ -12,11 +12,12 @@ buttons.forEach(button => {
 const heroSection = document.querySelector(".hero-section");
 
 const images = [
-    "amazon _logo/hero-image.jpg",
-    "amazon _logo/hero3_image.jpg",
-    "amazon _logo/hero4_image.jpg",
-    "amazon _logo/hero5_image.jpg",
-    "amazon _logo/hero6_image.jpg"
+    "Nav_logo/hero-image.jpg",
+    "Nav_logo/hero3_image.jpg",
+    "Nav_logo/hero4_image.jpg",
+    "Nav_logo/hero4_image.jpg",
+    "Nav_logo/hero5_image.jpg",
+    "Nav_logo/hero6_image.jpg"
 ];
 
 let currentImage = 0;
