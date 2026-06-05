@@ -38,7 +38,7 @@ Amazon-Clone/
 
 ## 📸 Project Preview
 
-
+<!-- Uploading "amazon-clone-demo.mp4.mp4"... -->
 
 ## 🎯 Learning Goals
 
